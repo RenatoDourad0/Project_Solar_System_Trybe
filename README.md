@@ -1,14 +1,49 @@
-Utilizar JSX no React;
+## Table of contents
 
-  * Utilizar corretamente o método `render()` para renderizar seus componentes;
+- [Overview](#overview)
+  - [The project](#the-project)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-  * Utilizar `import` para trazer componentes em diferentes arquivos;
 
-  * Criar componentes de classe em React;
+## Overview
 
-  * Criar múltiplos componentes a partir de um array;
+### The project
 
-  * Fazer uso de `props` corretamente;
+Create a web page with solar system informations testing the following habilities:
 
-  * Fazer uso de `PropTypes` para validar as `props de um componente`.
+- Use JSX inside React;
+- Create class components in React;
+- Correctly use the React class components render() method;
+- Create multiple components bt iterating an array;
+- Correctly use React props;
+- Use React PropTypes to validade prop types;
 
+
+### Screenshot
+
+![Desktop gif](./solarSystem.gif)
+
+
+### Links
+
+- Solution URL: [Github](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)
+- live site: [Link](https://renatodourad0.github.io/Project_Solar_System_Trybe/)
+
+
+## My process
+
+### Built with
+
+- React
+- CSS
+
+
+## Author
+  
+  Renato Campos
+- [GitHub](https://github.com/RenatoDourad0)
+- [Linkedin](www.linkedin.com/in/renato-dourado-b1b301112)
