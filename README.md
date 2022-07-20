@@ -36,6 +36,8 @@ Create a web page with solar system informations testing the following habilitie
 
 ## My process
 
+This project was my fist contact with React. It was a realy good practice of the basics.
+
 ### Built with
 
 - React
