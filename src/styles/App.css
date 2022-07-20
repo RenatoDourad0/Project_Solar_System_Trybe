@@ -1,0 +1,89 @@
+body {
+  background-image: url('../images/background.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 18px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.header {
+  margin-top: 50px;
+}
+
+.title {
+  display: block;
+  width: 80%;
+  padding: 15px 0;
+  border: 1px solid rgba(255, 255, 255, 0.425);
+  border-radius: 10px;
+  margin: 40px auto;
+  background-color: rgba(0, 0, 0, 0.469);
+}
+
+.planets-container {
+  display: flex;
+  flex-flow: row wrap;
+  flex-shrink: 1;
+  min-height: 250px;
+  height: fit-content;
+  align-items: center;
+  width: max-content;
+  max-width: 100vw;
+  margin: auto;
+}
+
+.planet img {
+  width: 150px;
+  transition: width 0.2s linear;
+}
+
+.planet img:hover {
+  width: 200px;
+}
+
+.missions {
+  display: flex;
+  flex-flow: row wrap;
+  width: 80%;
+  height: fit-content;
+  margin: 20px auto;
+  align-items: center;
+  justify-content: space-between;
+  row-gap: 30px;
+}
+
+.mission-card{
+  border: 1px solid rgba(255, 255, 255, 0.425);
+  background-color: rgba(0, 0, 0, 0.469);
+  border-radius: 10px;
+  width: 28%;
+  min-width: 220px;
+  height: 190px;
+  transition: background-color 0.2s ease;
+}
+
+.mission-card:hover {
+  background-color: rgba(0, 0, 0, 0.894)
+}
+
+.mission-name {
+  text-align: left;
+  font-weight: 700;
+  font-size: 1.2em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.541);
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+.mission-info {
+  text-align: left;
+  padding-left: 20px;
+  font-size: 0.9em;
+  line-height: 1em;
+  margin: 0;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
