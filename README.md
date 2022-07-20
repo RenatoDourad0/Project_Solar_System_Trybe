@@ -31,7 +31,6 @@ Create a web page with solar system informations testing the following habilitie
 ### Links
 
 - Solution URL: [Github](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)
-- live site: [Link](https://renatodourad0.github.io/Project_Solar_System_Trybe/)
 
 
 ## My process
