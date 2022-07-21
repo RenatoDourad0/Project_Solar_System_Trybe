@@ -20,7 +20,7 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.425);
   border-radius: 10px;
   margin: 40px auto;
-  background-color: rgba(0, 0, 0, 0.469);
+  background-color: rgba(0, 0, 0, 0.249);
 }
 
 .planets-container {
@@ -52,10 +52,17 @@ body {
 }
 
 .Vênus img, .Urano img {
-  width: 90px;
+  width: 120px;
 }
 .Vênus img:hover, .Urano img:hover {
-  width: 120px;
+  width: 140px;
+}
+
+.Marte img, .Júpiter img {
+  width: 220px;
+}
+.Marte img:hover, .Júpiter img:hover {
+  width: 250px;
 }
 
 .missions {
@@ -71,7 +78,7 @@ body {
 
 .mission-card{
   border: 1px solid rgba(255, 255, 255, 0.425);
-  background-color: rgba(0, 0, 0, 0.469);
+  background-color: rgba(0, 0, 0, 0.425);
   border-radius: 10px;
   width: 28%;
   min-width: 220px;
