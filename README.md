@@ -25,7 +25,7 @@ Create a web page with solar system informations testing the following habilitie
 
 ### Screenshot
 
-![Desktop gif](./SolarSystem.gif)
+![Desktop gif](./SolarSystem0.gif)
 
 
 ### Links
