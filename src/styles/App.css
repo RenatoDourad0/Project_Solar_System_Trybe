@@ -44,6 +44,20 @@ body {
   width: 200px;
 }
 
+.Mercúrio img, .Netuno img {
+  width: 75px;
+}
+.Mercúrio img:hover, .Netuno img:hover {
+  width: 100px;
+}
+
+.Vênus img, .Urano img {
+  width: 90px;
+}
+.Vênus img:hover, .Urano img:hover {
+  width: 120px;
+}
+
 .missions {
   display: flex;
   flex-flow: row wrap;
